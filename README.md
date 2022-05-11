@@ -3,7 +3,7 @@
 ## Skills
 <img src="https://user-images.githubusercontent.com/10377511/167936654-6b7f3402-20e4-4f81-a0fe-939c7bff8b5d.gif" align="right" width="250" height="250"/>
 
-:star2: **.NET Core**
+:star2: **.NET Core** <br>
 :star2: **Angular 8+**
 :star2: **C#**
 :star2: **TypeScript**
