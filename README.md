@@ -16,7 +16,7 @@
 ## Experience
 🌱 <br>
 **TRIBUNAL DE CONTAS DO ESTADO DO RIO DE JANEIRO | TCE-RJ** <br>
-Estagiário de Desenvolvimento de Software .NET <br>
+Software Development Internship <br>
 **2021** - **Atualmente** <br>
 
 
