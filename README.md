@@ -2,7 +2,7 @@
 <div>
   <img src="https://user-images.githubusercontent.com/10377511/167936654-6b7f3402-20e4-4f81-a0fe-939c7bff8b5d.gif" width="150" height="150"/>
 </div>
-:small_blue_diamond: - Full Stack Software Developer .NET & Angular
+:big_blue_diamond: Full Stack Software Developer .NET & Angular
 
 
 <!-- **leoramos182/leoramos182** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
