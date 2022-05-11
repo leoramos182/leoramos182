@@ -15,7 +15,10 @@
 
 ## Experience
 
-
+🌱
+**TRIBUNAL DE CONTAS DO ESTADO DO RIO DE JANEIRO | TCE-RJ**
+Estagiário de Desenvolvimento de Software .NET
+**2021** - **Atualmente**
 
 
 
