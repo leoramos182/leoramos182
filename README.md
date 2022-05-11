@@ -1,7 +1,7 @@
 ### Full Stack Software Developer .NET & Angular  <img src="https://user-images.githubusercontent.com/10377511/167936654-6b7f3402-20e4-4f81-a0fe-939c7bff8b5d.gif" width="50" height="50"/>
 
 ## Skills
-<img src="https://user-images.githubusercontent.com/10377511/167936654-6b7f3402-20e4-4f81-a0fe-939c7bff8b5d.gif" align="center" width="250" height="250"/>
+<img src="https://user-images.githubusercontent.com/10377511/167936654-6b7f3402-20e4-4f81-a0fe-939c7bff8b5d.gif" align="right" width="250" height="250"/>
 
 
 * **.NET Core**
