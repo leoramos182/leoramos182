@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-![naruto](https://user-images.githubusercontent.com/10377511/167935965-1f184663-8b6c-4447-a22f-d82fbfe80d1b.gif)
+![hacker-hacker-man](https://user-images.githubusercontent.com/10377511/167936654-6b7f3402-20e4-4f81-a0fe-939c7bff8b5d.gif)
+
 
 **leoramos182/leoramos182** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
