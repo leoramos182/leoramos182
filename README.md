@@ -1,8 +1,10 @@
-### Hi there 👋
-<img src="https://user-images.githubusercontent.com/10377511/167936654-6b7f3402-20e4-4f81-a0fe-939c7bff8b5d.gif" width="250" height="250"/>
+### Hello World 👋
+<div>
+  <img src="https://user-images.githubusercontent.com/10377511/167936654-6b7f3402-20e4-4f81-a0fe-939c7bff8b5d.gif" width="250" height="250"/>
+</div>
 
 
-**leoramos182/leoramos182** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **leoramos182/leoramos182** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
