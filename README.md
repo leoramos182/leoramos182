@@ -1,11 +1,11 @@
 ### Hello World 👋
 <div>
-    :small_blue_diamond: Full Stack Software Developer .NET & Angular
-    ## Skills
-    * .NET Core
-    * Angular 8+
-    * C#
-    * TypeScript
+    :small_blue_diamond: Full Stack Software Developer .NET & Angular <br>
+    ### Skills
+    * .NET Core <br>
+    * Angular 8+ <br>
+    * C# <br>
+    * TypeScript <br>
     
 </div>
 <div>
