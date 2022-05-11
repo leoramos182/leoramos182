@@ -1,5 +1,6 @@
-### Hello World 👋 
-:small_blue_diamond: **Full Stack Software Developer .NET & Angular** 
+### Full Stack Software Developer .NET & Angular 
+Hello there! I'm Leo.
+I'm a Software developer in Brazil
 ## Skills    
 - .NET Core
 - Angular 8+ 
