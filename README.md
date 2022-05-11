@@ -1,4 +1,5 @@
-### Hello World 👋 :small_blue_diamond: Full Stack Software Developer .NET & Angular 
+### Hello World 👋 
+:small_blue_diamond: Full Stack Software Developer .NET & Angular 
 ## Skills
 <div>      
     * .NET Core <br>
