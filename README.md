@@ -17,7 +17,7 @@
 🌱 <br>
 **TRIBUNAL DE CONTAS DO ESTADO DO RIO DE JANEIRO | TCE-RJ** <br>
 Software Development Internship <br>
-**2021** - **Atualmente** <br>
+**2021** - **currently** <br>
 
 
 
