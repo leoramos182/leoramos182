@@ -14,9 +14,9 @@
 :star: **CSS** <br>
 
 ## Experience
-
+🌱
 **TRIBUNAL DE CONTAS DO ESTADO DO RIO DE JANEIRO | TCE-RJ** <br>
-🌱 Estagiário de Desenvolvimento de Software .NET <br>
+Estagiário de Desenvolvimento de Software .NET <br>
 **2021** - **Atualmente** <br>
 
 
