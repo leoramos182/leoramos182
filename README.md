@@ -6,24 +6,13 @@
 
 * **.NET Core**
 * **Angular 8+**
-  or another CI system to know if a pull request adds a massive dependency.
-* **Modular** to fit different use cases: big JS applications
-  that use their own bundler or small npm libraries with many files.
-* Can calculate **the time** it would take a browser
-  to download and **execute** your JS. Time is a much more accurate
-  and understandable metric compared to the size in bytes.
-* Calculations include **all dependencies and polyfills**
-  used in your JS.
-
-- .NET Core
-- Angular 8+ 
-- C#
-- Dapper
-- Entity Framework
-- Sqlserver
-- TypeScript 
-- Html
-- CSS
+* **C#**
+* **Dapper**
+* **Entity Framework**
+* **Sqlserver**
+* **TypeScript**
+* **Html**
+* **CSS**
 
 
 
