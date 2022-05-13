@@ -19,6 +19,11 @@
 Software Development Internship <br>
 **2021** - **currently** <br>
 
+## Contact
+<a href="https://www.linkedin.com/in/leo-andrade-41724830/">
+<img src="https://user-images.githubusercontent.com/10377511/168383316-e0ccb835-4354-48f5-89d5-1b4065a17858.png" align="left" width="50" height="50"/>
+</a>
+
 
 
 <!-- **leoramos182/leoramos182** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
