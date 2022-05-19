@@ -21,8 +21,9 @@ Software Development Internship <br>
 
 ## Contact
 <a href="https://www.linkedin.com/in/leo-andrade-41724830/">
-<img src="https://user-images.githubusercontent.com/10377511/168383316-e0ccb835-4354-48f5-89d5-1b4065a17858.png" align="left" width="50" height="50"/>
+<img src="https://user-images.githubusercontent.com/10377511/168383316-e0ccb835-4354-48f5-89d5-1b4065a17858.png" width="50" height="50"/>
 </a>
+<br>
 
 ## Stats
 [![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=leoramos182&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
