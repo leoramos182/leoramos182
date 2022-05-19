@@ -2,9 +2,6 @@
   <img src="https://user-images.githubusercontent.com/10377511/169407004-c56305e1-b019-4ac2-912e-e662aaa37665.gif" width=200px weight=200px>
 </p>
 
-### Léo Ramos Andrade
-### Full Stack Software Developer .NET & Angular
-
 ## Skills
 
 :star2: **.NET Core** <br>
