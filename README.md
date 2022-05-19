@@ -24,6 +24,9 @@ Software Development Internship <br>
 <img src="https://user-images.githubusercontent.com/10377511/168383316-e0ccb835-4354-48f5-89d5-1b4065a17858.png" align="left" width="50" height="50"/>
 </a>
 
+## Stats
+[![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=leoramos182&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!-- **leoramos182/leoramos182** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
