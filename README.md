@@ -1,7 +1,11 @@
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/10377511/169407004-c56305e1-b019-4ac2-912e-e662aaa37665.gif" width=200px weight=200px>
+</p>
+
+### Léo Ramos Andrade
 ### Full Stack Software Developer .NET & Angular
 
 ## Skills
-<img src="https://user-images.githubusercontent.com/10377511/167936654-6b7f3402-20e4-4f81-a0fe-939c7bff8b5d.gif" align="right" width="250" height="250"/>
 
 :star2: **.NET Core** <br>
 :star2: **Angular 8+** <br>
@@ -12,6 +16,8 @@
 :star: **Sqlserver** <br>
 :star: **Html** <br>
 :star: **CSS** <br>
+
+
 
 ## Experience
 🌱 <br>
