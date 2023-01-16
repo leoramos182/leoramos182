@@ -20,7 +20,11 @@
 🌱 <br>
 **TRIBUNAL DE CONTAS DO ESTADO DO RIO DE JANEIRO | TCE-RJ** <br>
 Software Development Internship <br>
-**2021** - **currently** <br>
+**10/2021** - **11/2022** <br><br>
+🐤 <br>
+**BUILTCODE** <br>
+Full Stack Developer <br>
+**11/2022** - **currently** <br>
 
 ## Contact
 <a href="https://www.linkedin.com/in/leo-andrade-41724830/">
