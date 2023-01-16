@@ -23,7 +23,7 @@ Software Development Internship <br>
 **10/2021** - **11/2022** <br><br>
 🐤 <br>
 **BUILTCODE** <br>
-Full Stack Developer <br>
+Full Stack Software Developer <br>
 **11/2022** - **currently** <br>
 
 ## Contact
