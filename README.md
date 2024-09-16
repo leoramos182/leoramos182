@@ -11,6 +11,7 @@
 :star: **Dapper** <br>
 :star: **Entity Framework** <br>
 :star: **Sqlserver** <br>
+:star: **Postgre** <br>
 :star: **Html** <br>
 :star: **CSS** <br>
 
