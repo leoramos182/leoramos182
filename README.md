@@ -2,6 +2,8 @@
   <img src="https://user-images.githubusercontent.com/10377511/169407004-c56305e1-b019-4ac2-912e-e662aaa37665.gif" width=200px weight=200px>
 </p>
 
+[![My Skills](https://skillicons.dev/icons?i=dotnet,angular,postgres,docker)](https://skillicons.dev)
+
 ## Skills
 
 :star2: **.NET Core** <br>
@@ -14,8 +16,6 @@
 :star: **Postgre** <br>
 :star: **Html** <br>
 :star: **CSS** <br>
-
-
 
 ## Experience
 🌱 <br>
