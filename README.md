@@ -1,5 +1,6 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/10377511/169407004-c56305e1-b019-4ac2-912e-e662aaa37665.gif" width=200px weight=200px>
+  <img src="https://giphy.com/embed/FL3Irmy2uFILm" width="480" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/phone-awesome-creation-FL3Irmy2uFILm" width=200px weight=200px>
 </p>
 
 [![My Skills](https://skillicons.dev/icons?i=dotnet,angular,postgres,docker)](https://skillicons.dev)
