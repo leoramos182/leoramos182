@@ -18,14 +18,16 @@
 :star: **CSS** <br>
 
 ## Experience
-🌱 <br>
-**TRIBUNAL DE CONTAS DO ESTADO DO RIO DE JANEIRO | TCE-RJ** <br>
-Software Development Internship <br>
-**10/2021** - **11/2022** <br><br>
+
 🐤 <br>
 **BUILTCODE** <br>
 Full Stack Software Developer <br>
 **11/2022** - **currently** <br>
+
+🌱 <br>
+**TRIBUNAL DE CONTAS DO ESTADO DO RIO DE JANEIRO | TCE-RJ** <br>
+Software Development Internship <br>
+**10/2021** - **11/2022** <br><br>
 
 ## Contact
 <a href="https://www.linkedin.com/in/leo-andrade-41724830/">
